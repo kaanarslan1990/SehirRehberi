@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SehirRehberi.API",
+    "\\SehirRehberi.API\\Data",
+    "\\SehirRehberi.API\\Models"
   ],
   "SelectedNode": "\\SehirRehberi.API.sln",
   "PreviewInSolutionExplorer": false
